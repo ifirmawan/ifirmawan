@@ -2,7 +2,7 @@
 
 Hi there! I'm a full-stack web developer passionate about building scalable e-commerce and MIS solutions.
 
-* 🔬 _Continuously learning and growing as a full-stack web developer._
+* 🌱 _Continuously learning and growing as a full-stack web developer._
 * _👋 Always open to new challenges and collaborations._
 
 ## Technical Skills
